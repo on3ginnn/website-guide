@@ -1,7 +1,7 @@
 window.onload = function () {
     let data = {
         idCart: "-1",
-        mainTitle: `Лучшие отечесвтенные аналоги!<br>
+        mainTitle: `Лучшие отечественные аналоги!<br>
         Выберите категорию, к которой принадлежит продукт.`
     };
 
@@ -194,7 +194,7 @@ window.onload = function () {
             } else {
                 data = {
                     idCart: "-1",
-                    mainTitle: `Лучшие отечесвтенные аналоги!<br>
+                    mainTitle: `Лучшие отечественные аналоги!<br>
                     Выберите категорию, к которой принадлежит продукт.`                
                 }
                 carts.innerHTML = '';
